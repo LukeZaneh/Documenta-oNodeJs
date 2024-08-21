@@ -1,7 +1,7 @@
 # Documentação do NodeJs com MkDocs
 Esse repositório armazena o código fonte da página estática criada com a ferramenta MkDocs para a documentação básica do NodeJs,  mostrando exemplos de código com os principais recursos, ferramentas, vantagens e desvantagens, etc.
 
-# Recursos Utilizados 
+## Recursos Utilizados 
 
 ### Linguagens 
 * Mkdocs
